@@ -5,5 +5,8 @@ Assignments of CS230: Virtual Reality for ACM Class
 * macOS Mojave 10.14.3
 
 ## Assignment #1
+![avatar](./img/hw1.png)
 
 ## Assignment #2
+
+![avatar](./img/hw2.png)
